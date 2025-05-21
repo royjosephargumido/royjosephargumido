@@ -7,10 +7,10 @@
 
 Here are some ideas to get you started:
 
-- 💼 I'm a Project Manager and a Full Stack Software Engineer.
-- 🔭 I’m currently working on NextJS 15 CRM/ERP Systems Templates & Microservices API using NestJS & GraphQL.
+- 💼 I'm a Technical Project Manager, Product Engineer, and a Full Stack Software Engineer.
+- 🔭 I’m currently building platform applications for MŌSHN using Vite, Tanstack, RESTful/GraphQL/ API microservices.
 - 🌱 I’m currently learning SecDevOps.
-- 👯 I’m looking to collaborate on making NextJS CRM/ERP System & Microservices using NestJS & GraphQL.
+- 👯 I’m looking for someone to collaborate with me building MŌSHN.
 - 📫 How to reach me: Please send me an email at <a style="color: #646CFF;" href="mailto:royjosephargumido@gmail.com">royjosephargumido@gmail.com</a>.
 
 <br>
@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 | **Tools** | **DB/Backend** | **Frontend** | **Hardware** |
 |-----------|----------------|--------------|--------------|
-| ![ClickUp](https://img.shields.io/badge/ClickUp-%23638DFA?style=for-the-badge&logo=clickup&logoColor=white) | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
+| ![ClickUp](https://img.shields.io/badge/ClickUp-%23638DFA?style=for-the-badge&logo=clickup&logoColor=white) | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) |
 | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) |
 | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) |  |
 | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) | ![Memcached](https://img.shields.io/badge/Memcached-0769AD?style=for-the-badge&logo=serverfault&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |  |
-|  | ![RESTful APIs](https://img.shields.io/badge/RESTful%20API-000000?style=for-the-badge&logo=json&logoColor=white) |  |  |
+| ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | ![RESTful APIs](https://img.shields.io/badge/RESTful%20API-000000?style=for-the-badge&logo=json&logoColor=white) |  |  |
 |  | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) |  |  |
 
 </div>
@@ -65,23 +65,16 @@ Here are some ideas to get you started:
 
 ## Currently learning:
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white&style=for-the-badge)
 ![pfSense](https://img.shields.io/badge/pfSense-235086?logo=pfSense&logoColor=white&style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?logo=traefikmesh&logoColor=white&style=for-the-badge)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
-![Consul](https://img.shields.io/badge/Consul-BE2B2B?logo=consul&logoColor=white&style=for-the-badge)
+
 
 <br>
 

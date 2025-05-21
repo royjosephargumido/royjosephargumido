@@ -8,9 +8,9 @@
 Here are some ideas to get you started:
 
 - 💼 I'm a Technical Project Manager, Product Engineer, and a Full Stack Software Engineer.
-- 🔭 I’m currently building platform applications for MŌSHN using Vite, Tanstack, RESTful/GraphQL/ API microservices.
+- 🔭 I’m currently building platform applications for [MŌSHN](https://github.com/getmoshn) using Vite, Tanstack, RESTful/GraphQL/API microservices.
 - 🌱 I’m currently learning SecDevOps.
-- 👯 I’m looking for someone to collaborate with me building MŌSHN.
+- 👯 I’m looking for someone to collaborate with me building [MŌSHN](https://github.com/getmoshn).
 - 📫 How to reach me: Please send me an email at <a style="color: #646CFF;" href="mailto:royjosephargumido@gmail.com">royjosephargumido@gmail.com</a>.
 
 <br>
